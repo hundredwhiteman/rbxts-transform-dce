@@ -1,6 +1,6 @@
 {
 	"name": "rbxts-transform-dce",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Transformer for roblox-ts that eliminates dead code",
 	"author": "hundredwhiteman",
 	"license": "MIT",
